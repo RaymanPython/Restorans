@@ -5,5 +5,5 @@
 решение задач в файле main.ipynb
 
 
-Видео -
+Видео презентация - https://youtu.be/vecI7NeJMgI
 
